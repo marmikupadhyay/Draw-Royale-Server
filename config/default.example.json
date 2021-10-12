@@ -1,0 +1,12 @@
+{
+    // Database Config
+    "db": {
+      "url": "mongodb://localhost:27017/drawRoyale"
+    },
+    // Sever Config
+    "server": {
+      "port": 8000,
+      "proxy": "",
+      "domain": "http://localhost:8000"
+    }
+}
